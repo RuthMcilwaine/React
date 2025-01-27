@@ -1,0 +1,6 @@
+.Palette {
+    height: 100vh; /*view height*/
+}
+.Palette-colors {
+    height: 90%; /*90% of the view height*/
+}
